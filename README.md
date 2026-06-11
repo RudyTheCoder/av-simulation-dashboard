@@ -2,6 +2,12 @@
 
 A full-stack portfolio project for reviewing autonomous vehicle and ADAS simulation evaluation results. The application combines a Next.js frontend, FastAPI backend, PostgreSQL database, and interactive data visualizations to simulate how autonomous vehicle teams analyze regression testing results.
 
+## Live Links
+
+- Live App: https://av-simulation-dashboard-production.up.railway.app
+- Backend API Health Check: https://resourceful-determination-production-1f7b.up.railway.app/health
+- Backend API Example: https://resourceful-determination-production-1f7b.up.railway.app/api/metrics/summary
+
 ## Screenshots
 
 ### Dashboard
